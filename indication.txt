@@ -1,0 +1,4 @@
+les listes des choses a faire:
+-installer le yarn
+-installer yarn install
+
